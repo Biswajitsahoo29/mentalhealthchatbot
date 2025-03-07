@@ -1,2 +1,2 @@
 # mentalhealthchatbot
-This project is an AI-powered chatbot designed to offer mental health support. 
+A mental health chatbot designed to provide support and resourses for mental well-being using NLP techniques.This project is developed in google colab and deployed using streamlit for an interactive web interface.
